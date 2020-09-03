@@ -7,7 +7,7 @@ variables:
   ADDON_TARGET: "node-red"
 
   ADDON_AARCH64_BASE: "hassioaddons/debian-base-aarch64:3.2.1"
-  ADDON_AMD64_BASE: "hassioaddons/debian-base-aarch64:3.2.1"
-  ADDON_ARMHF_BASE: "hassioaddons/debian-base-aarch64:3.2.1"
-  ADDON_ARMV7_BASE: "hassioaddons/debian-base-aarch64:3.2.1"
-  ADDON_I386_BASE: "hassioaddons/debian-base-aarch64:3.2.1"
+  ADDON_AMD64_BASE: "hassioaddons/debian-base-amd64:3.2.1"
+  ADDON_ARMHF_BASE: "hassioaddons/debian-base-armhf64:3.2.1"
+  ADDON_ARMV7_BASE: "hassioaddons/debian-base-armv764:3.2.1"
+  ADDON_I386_BASE: "hassioaddons/debian-base-i38664:3.2.1"
